@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{}],fetch:{"0":{_error:{message:"this.GetSearchPlanet is not a function",statusCode:500}}},mutations:void 0});
